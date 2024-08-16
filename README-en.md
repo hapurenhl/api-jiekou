@@ -10,8 +10,8 @@ Then access the 'domain name/index. php'? Id=1 'or' Domain name/index. php '? id
 
 ## Attention
 
--'id=1' is the anime photo of the mobile phone by default
--'id=2' defaults to the anime image of the computer
+- 'id=1' is the anime photo of the mobile phone by default
+- 'id=2' defaults to the anime image of the computer
 
 # Advanced gameplay
 
