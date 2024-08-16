@@ -2,11 +2,11 @@
 
 ## Installation
 
-Directly place 'index. php' in the root directory of your own server
+Directly place `index.php` in the root directory of your own server
 
 ## Use
 
-Then access the 'domain name/index. php'? Id=1 'or' Domain name/index. php '? id=2'
+Then access the `domain name/index.php?Id=1` or `Domain name/index.php?id=2`
 
 ## Attention
 
