@@ -3,11 +3,11 @@
 
 ## 安装
 
-直接把'index.php'放到自己服务器根目录中
+直接把`index.php`放到自己服务器根目录中
 
 ## 使用
 
-然后访问'域名/index.php?id=1'或'域名/index.php?id=2'
+然后访问`域名/index.php?id=1`或`域名/index.php?id=2`
 
 ##注意
 
