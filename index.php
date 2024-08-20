@@ -15,8 +15,8 @@ function isUrlAvailable($url, $timeout = 5) {
 
 $id = $_GET['id'] ?? null; // 使用null合并运算符提供默认值以防未设置id
 
-$primaryDomain = 'https://wp.hapuren.cn';
-$secondaryDomain = 'https://wp.hapuren.online';
+$primaryDomain = 'https://cdn.hapuren.cn';
+$secondaryDomain = 'https://wp.hapuren.cn';
 
 // 检查主域名是否可用
 if (isUrlAvailable($primaryDomain)) {
